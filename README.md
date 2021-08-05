@@ -1,4 +1,4 @@
-## Hi welcome my account personal GITHUB!
+## Hi welcome my personal account GITHUB!
 
 <div>
   <a href="https://github.com/rafaballerini">
