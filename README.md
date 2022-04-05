@@ -1,12 +1,11 @@
 ## Hi welcome my personal account GITHUB!
 
-
-![full-stack-developer](https://user-images.githubusercontent.com/23404398/161836655-65234f52-01f8-4bf2-8d03-6b9bf1129bb0.gif)
+<img height="600em" src="https://user-images.githubusercontent.com/23404398/161837968-983c2295-08f8-434c-838c-0e01008aee3d.gif" />
 
 <div>
   <a href="https://github.com/SS-Repo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ss-repo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss-repo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ss-repo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss-repo&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
