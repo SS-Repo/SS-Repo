@@ -1,6 +1,6 @@
 ## Hi welcome my personal account GITHUB!
 
-<img height="600em" src="https://user-images.githubusercontent.com/23404398/161837968-983c2295-08f8-434c-838c-0e01008aee3d.gif" />
+<img height="100%" src="https://user-images.githubusercontent.com/23404398/161837968-983c2295-08f8-434c-838c-0e01008aee3d.gif" />
 
 <div>
   <a href="https://github.com/SS-Repo">
